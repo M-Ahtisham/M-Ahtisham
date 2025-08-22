@@ -4,11 +4,11 @@
 I'm a passionate Artificial Intelligence student at Deggendorf Institute of Technology with hands-on experience in AI-driven applications, data analysis, mobile app development, and full-stack software projects. I love working on real-life problems using technology and am always exploring innovative solutions through intelligent systems.
 
 ---
-
+   
 - 🔭 I’m currently working on:
-  - **Basra Asian Food** – Cross-platform Android and iOS app for an online grocery store using WebView and native tools.
-  - **Vision2ASCII** – A computer vision project converting real-time images into ASCII art.
-  - **StarX** – A car price analytics tool using regression and data visualization.
+  - **Basra Asian Food** - Cross-platform Android and iOS app for an online grocery store using WebView and native tools.
+  - **TitanicAI** - A webapp that predicts the probability of surviving the Titanic incident given some features.
+  - **StarX** - A car price analytics tool using regression and data visualization.
 
 - 🌱 I’m currently learning:
   - Deep learning frameworks like **PyTorch** and **TensorFlow**
